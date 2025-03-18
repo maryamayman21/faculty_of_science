@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Faculty of science</string>
+    <string name="app_title">Faculty of science</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forget_password">Forget Password ?</string>
+    <string name="dont_have_account">Don\'t have an account ?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="or">OR</string>
+    <string name="login_as_guest">Login As Guest</string>
+    <string name="login_with_google">Login With Google</string>
+    <string name="name">Name</string>
+    <string name="repeat_password">Repeat Password</string>
+    <string name="already_have_account">Already Have an Account ? </string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <string name="no_internet">No Internet Connection, Please Check Your Network</string>
+
+</resources>

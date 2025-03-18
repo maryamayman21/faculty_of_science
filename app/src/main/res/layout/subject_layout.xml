@@ -1,0 +1,39 @@
+<!-- subject_input_layout.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <EditText
+        android:id="@+id/editTextSubject"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Subject Name"/>
+
+    <EditText
+        android:id="@+id/editTextDegrees"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Degrees"/>
+
+    <EditText
+        android:id="@+id/editTextGrade"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Grade (A, A-, ...)"/>
+
+    <EditText
+        android:id="@+id/editTextHours"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Hours"/>
+
+    <Button
+        android:id="@+id/btnDelete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Delete"
+        android:onClick="deleteSubject" />
+
+</LinearLayout>
